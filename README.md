@@ -16,7 +16,7 @@ This is a simple todo website built using HTML, CSS, JavaScript, tailwind CSS, M
 
 ### Demo Screeshots
 
-![Estelle Desktop Demo](todo-app/images/Screenshot 2023-07-12 at 7.46.12 PM.png)
+![Todo Demo](/images/Screenshot%2023-07-12%at%7.46.12%PM.png)
 
 ### Tech Stack Used
 
