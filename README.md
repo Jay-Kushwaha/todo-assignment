@@ -1,3 +1,33 @@
+<div align="center">
+  <br />
+  <br />
+
+  <h2 align="center">TODO APP</h2>
+
+This is a simple todo website built using HTML, CSS, JavaScript, tailwind CSS, MST State Management and NEXT.js.<br/> 
+
+
+
+  <a href="[https://codewithsadee.github.io/woodex/](https://vercel.com/jay-kushwaha/todo-assignment/6mNPNcb6fdJ3coCwfMznykZpxnhi)"><strong>➥ Live Demo</strong></a>
+
+</div>
+
+<br />
+
+### Demo Screeshots
+
+![Estelle Desktop Demo](/images/Screenshot 2023-07-12 at 7.46.12 PM.png)
+
+### Tech Stack Used
+
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>Next.js</li> 
+<li>tailwind css</li>  
+<li>MST State Management</li>  
+</ul>
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
